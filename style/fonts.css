@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'Lora';
+    src: url('../fonts/Lora/Lora-Regular.ttf');
+    width: 400;
+}
+@font-face {
+    font-family: 'Oxygen';
+    src: url('../fonts/Oxygen/Oxygen-Regular.ttf');
+    width: 400;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto/Roboto-Regular.ttf');
+    width: 400;
+}
+
+
+@font-face {
+    font-family: 'FontAwesome Brands';
+    src: url('../icons/webfonts/fa-brands-400.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'FontAwesome Duotone';
+    src: url('../icons/webfonts/fa-duotone-900.ttf');
+    font-weight: 900;
+}
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('../icons/webfonts/fa-light-300.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('../icons/webfonts/fa-regular-400.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'FontAwesome Solid';
+    src: url('../icons/webfonts/fa-solid-900.ttf');
+    font-weight: 900;
+}
+
+.fal{
+    font-family: 'FontAwesome';
+    font-weight: 300;
+}
+.far{
+    font-family: 'FontAwesome';
+    font-weight: 400;
+}
+.fab{
+    font-family: 'FontAwesome Brands';
+    font-weight: 400;
+}
+.fad{
+    font-family: 'FontAwesome Duotone';
+    font-weight: 900;
+}
+.fas{
+    font-family: 'FontAwesome Solid';
+    font-weight: 900;
+}
+
