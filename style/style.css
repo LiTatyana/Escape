@@ -134,10 +134,6 @@ padding: 23px 0;
 
 transition: .5s;
 }
-.main-nav-el:hover{
-    background: #DD783F;
-    color: #FFFFFF;
-}
 /* ---- nav ---- */
 
 .features{
